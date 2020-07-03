@@ -173,6 +173,11 @@ The server responds to that request with an HTTP response message. Within the re
 - Add and commit all changes on local repo
 
 - Push `app.py`, `greet.html`, `list10.html`, `evens.html`, and `mytext.txt` to remote repo `clarusway-python-workshop` on GitHub.
+```bash
+git add .
+git commit -m 'added flask 02 hands-on'
+git push
+```
 
 ## Part 4 - Run the Hello World App on EC2 Instance
 
